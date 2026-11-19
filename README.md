@@ -1,4 +1,4 @@
-# MSD AI interview practice
+# RAG prototype
 
 Small TypeScript + LangChain + Gemini RAG project, built interactively.
 All documents are fictional and are not MSD policies.
